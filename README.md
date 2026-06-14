@@ -13,7 +13,7 @@
 
 <!-- ─────────────  2 · Animated typing tagline  ───────────────────────── -->
 <a href="https://github.com/Sumityvd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6F86D6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sumit+%F0%9F%91%8B;Computer+Vision+Engineer;Full-Stack+Developer;Competitive+Programmer+%26+Open-Source+Contributor;Currently+building+%F0%9F%91%89+BlinkDetector" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6F86D6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sumit+%F0%9F%91%8B;Building+real-time+computer+vision+apps+%F0%9F%8E%AF;Full-Stack+Developer+%C2%B7+ML+Engineer;Codeforces+Specialist+%E2%9A%A1+%C2%B7+500%2B+LeetCode+%F0%9F%A7%A9;Latest+ship%3A+BlinkDetector+v0.1.0+%F0%9F%9A%80" alt="typing animation"/>
 </a>
 
 <!-- ─────────────  3 · Quick badges  ──────────────────────────────────── -->
