@@ -133,18 +133,36 @@ const sumit = {
 
 ---
 
-### 📈 Deep stats
+### 📈 GitHub Analytics
+
+<!-- Auto-generated daily by .github/workflows/summary-cards.yml -->
 
 <div align="center">
 
-<!-- Auto-generated daily by .github/workflows/summary-cards.yml -->
-<img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="46%"/>
-<img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="46%"/>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" width="46%"/>
-<img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="46%"/>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="46%"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
+      <p><sub><b>Profile Overview</b><br/>Account summary &amp; lifetime contributions</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" width="100%"/>
+      <p><sub><b>Repositories by Language</b><br/>Tech breadth across my public repos</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language" width="100%"/>
+      <p><sub><b>Commits by Language</b><br/>Where I actually spend my keystrokes</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumityvd/Sumityvd/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive hours" width="100%"/>
+      <p><sub><b>Productive Hours</b><br/>When during the day I commit most</sub></p>
+    </td>
+  </tr>
+</table>
+
+<sub>📅 These cards refresh automatically every 24 hours.</sub>
 
 </div>
 
