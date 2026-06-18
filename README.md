@@ -32,7 +32,7 @@
 ```typescript
 const sumit = {
   pronouns:       "he/him",
-  status:         "🎓 CS undergrad @ IIITDM Jabalpur · Class of 2026",
+  status:         "🎓 IIITDM Jabalpur · Class of 2026",
   base:           "🇮🇳 India",
   focus:          ["ML / Computer Vision", "Full-Stack Web", "Embedded Systems"],
   currentlyBuilding: "BlinkDetector — real-time blink + drowsiness detection",
