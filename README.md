@@ -42,7 +42,7 @@ const sumit = {
 };
 ```
 
-🏆 **GSSoC '24** open-source contributor &nbsp;·&nbsp; ⚡ **Codeforces Specialist** &nbsp;·&nbsp; 🧩 **500+ LeetCode** solved
+🏆 **Summer of Bitcoin '25** contributor &nbsp;·&nbsp; ⚡ **Codeforces Specialist** &nbsp;·&nbsp; 🧩 **500+ LeetCode** solved
 
 ---
 
@@ -125,7 +125,7 @@ const sumit = {
 
 </div>
 
-- 🌐 **GSSoC '24** — Contributor at GirlScript Summer of Code 2024
+- 🌐 **Summer of Bitcoin '25** — Contributor to a Bitcoin open-source project
 - ⚡ **Codeforces Specialist** — sustained competitive programming
 - 🧩 **500+ LeetCode** — DSA across every standard topic
 - 🚀 **Shipped a Windows app with CI/CD** — see [BlinkDetector](https://github.com/Sumityvd/fatigue-eye-tracker)
