@@ -1,0 +1,33 @@
+name: Generate 3D contribution graph
+
+# Renders my contribution heat map as an isometric 3D SVG.
+# Output is committed back to main under profile-3d-contrib/.
+
+on:
+  schedule:
+    - cron: "30 0 * * *"         # 00:30 UTC daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Sumityvd
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update 3D contribution graph"
+          branch: main
+          file_pattern: profile-3d-contrib/*.svg
